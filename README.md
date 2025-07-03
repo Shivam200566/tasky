@@ -4,7 +4,7 @@ This is a basic full-stack project that replicates core functionalities of this 
 
 ## 🔧 Tech Stack
 
-- *Frontend*: (React or similar - confirm from project)
+- *Frontend*: (React )
 - *Backend*: Node.js, Express.js
 - *Database*: MongoDB
 - *Authentication*: JWT-based
